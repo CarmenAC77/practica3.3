@@ -1,3 +1,3 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /Carmen_Amat/
+Disallow: /Carmen_Amat prueba con GITHUB/
